@@ -9,7 +9,7 @@ The data used contains financial information about loans, and our target variabl
 - 1: Represents high-risk loans (high risk of default).
 The process involved the following stages:
 
-*1. Data Preparation:* We loaded the data, split it into features (X) and labels (y), and performed a train-test split.
+### 1. Data Preparation: ### We loaded the data, split it into features (X) and labels (y), and performed a train-test split.
 *2. Model Selection:* A Logistic Regression model was used to predict loan outcomes.
 *3. Model Training:* We trained the model using the training dataset.
 *4. Model Evaluation:* We evaluated the model on the testing dataset using metrics like accuracy, precision, and recall.
