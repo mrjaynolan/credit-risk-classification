@@ -1,5 +1,4 @@
 # credit-risk-classification
-Module 20 Challenge
 
 This project applies a Logistic Regression model to predict the likelihood of loan defaults (high-risk loans) using historical lending data. The goal is to classify loans as either healthy or high-risk based on the features in the dataset.
 
